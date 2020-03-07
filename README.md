@@ -5,7 +5,7 @@ PHyRAD is a pipeline to perform phylogenetic analyses from HyRAD data.
 
 3 steps:
 
-* probes reconstruction using IpyRAD (https://ipyrad.readthedocs.io/) 
+* probes reconstruction using [IpyRAD](https://ipyrad.readthedocs.io/) 
 * sample loci reconstruction, combinaition and alignment
 * phylogeny
 
@@ -16,13 +16,13 @@ Gauthier J, Pajlokiv M,  Neuenschwander S, Kaila L, Schmid S, rlando L, Alvarez 
 
 * Python and BioPython
 * [samtools](http://www.htslib.org/)
-* [IpyRAD] (https://ipyrad.readthedocs.io)
-* [bwa] (http://bio-bwa.sourceforge.net/)
-* [picard] (https://broadinstitute.github.io/picard/)
+* [IpyRAD](https://ipyrad.readthedocs.io)
+* [bwa](http://bio-bwa.sourceforge.net/)
+* [picard](https://broadinstitute.github.io/picard/)
 * gatk3 
-* [freebayes] (https://github.com/ekg/freebayes)
+* [freebayes](https://github.com/ekg/freebayes)
 * mafft 
-* [amas] (https://github.com/marekborowiec/AMAS)
+* [amas](https://github.com/marekborowiec/AMAS)
 
 
 ## Usage
