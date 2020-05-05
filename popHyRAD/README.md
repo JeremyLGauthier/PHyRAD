@@ -1,8 +1,13 @@
-# PHyRAD: suite of tools for HyRAD sequencing
+# PHyRAD: loci reconstruction from HyRAD sequencing for phylogeny
 
 
-PHyRAD is a suite of tools to perform phylogenetic analyses (phyloHyRAD) or population genetic analyses (popHyRAD) from HyRAD data. 
+PHyRAD is a pipeline to perform phylogenetic analyses from HyRAD data. 
 
+3 steps:
+
+* probes reconstruction using [IpyRAD](https://ipyrad.readthedocs.io/) 
+* sample loci reconstruction, combination and alignment
+* phylogeny
 
 **Reference:**   
 Gauthier J, Pajlokiv M,  Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez N (2020). **Museomics identifies genetic erosion in two butterfly species across the 20th century in Finland.** under review in _Molecular Ecology Resources_.
@@ -19,3 +24,16 @@ Gauthier J, Pajlokiv M,  Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez
 * mafft 
 * [amas](https://github.com/marekborowiec/AMAS)
 
+
+## Usage
+Step1
+
+IpyRAD loci assembly on probes
+
+Step2
+
+
+```
+./PhyRAD.sh -r ipyrad_output.loci 
+
+```
