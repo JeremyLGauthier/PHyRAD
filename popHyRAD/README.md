@@ -10,7 +10,9 @@ popHyRAD is a pipeline to perform population genetic analyses from HyRAD data.
 * SNP calling using [freebayes](https://github.com/ekg/freebayes)
 
 **Reference:**   
-Gauthier J, Pajlokiv M,  Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez N (2020). **Museomics identifies genetic erosion in two butterfly species across the 20th century in Finland.** under review in _Molecular Ecology Resources_.
+Gauthier J, Pajlokiv M, Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez N (2020). **Museomics identifies genetic erosion in two butterfly species across the 20th century in Finland.**  _Molecular Ecology Resources_.
+(https://doi.org/10.1111/1755-0998.13167)
+
 
 ## Dependances
 
