@@ -1,13 +1,13 @@
-# PHyRAD: loci reconstruction from HyRAD sequencing for phylogeny
+# popHyRAD: small variant genotyping for HyRAD sequencing
 
 
-PHyRAD is a pipeline to perform phylogenetic analyses from HyRAD data. 
+popHyRAD is a pipeline to perform population genetic analyses from HyRAD data. 
 
 3 steps:
 
 * probes reconstruction using [IpyRAD](https://ipyrad.readthedocs.io/) 
-* sample loci reconstruction, combination and alignment
-* phylogeny
+* sample reads mapping and cleaning
+* SNP calling using [freebayes](https://github.com/ekg/freebayes)
 
 **Reference:**   
 Gauthier J, Pajlokiv M,  Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez N (2020). **Museomics identifies genetic erosion in two butterfly species across the 20th century in Finland.** under review in _Molecular Ecology Resources_.
@@ -34,6 +34,6 @@ Step2
 
 
 ```
-./PhyRAD.sh -r ipyrad_output.loci 
+./popHyRAD.sh -r ipyrad_output.loci 
 
 ```
