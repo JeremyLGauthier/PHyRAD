@@ -21,10 +21,9 @@ Gauthier J, Pajlokiv M, Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez 
 * [IpyRAD](https://ipyrad.readthedocs.io)
 * [bwa](http://bio-bwa.sourceforge.net/)
 * [picard](https://broadinstitute.github.io/picard/)
-* gatk3 
+* gatk3
+* [mapDamage2] (https://ginolhac.github.io/mapDamage)
 * [freebayes](https://github.com/ekg/freebayes)
-* mafft 
-* [amas](https://github.com/marekborowiec/AMAS)
 
 
 ## Usage
@@ -36,6 +35,6 @@ Step2
 
 
 ```
-./popHyRAD.sh -r ipyrad_output.loci 
+./popHyRAD.sh -r ipyrad_output.loci -m 
 
 ```

@@ -15,7 +15,20 @@
 * [bwa](http://bio-bwa.sourceforge.net/)
 * [picard](https://broadinstitute.github.io/picard/)
 * gatk3 
-* [freebayes](https://github.com/ekg/freebayes)
+* [mapDamage2] (https://ginolhac.github.io/mapDamage)
 * mafft 
 * [amas](https://github.com/marekborowiec/AMAS)
 
+
+## Usage
+Step1
+
+IpyRAD loci assembly on probes
+
+Step2
+
+
+```
+./phyloHyRAD.sh -r ipyrad_output.loci -m 
+
+```
