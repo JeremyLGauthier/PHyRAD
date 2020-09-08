@@ -22,7 +22,7 @@ Gauthier J, Pajlokiv M, Neuenschwander S, Kaila L, Schmid S, Orlando L, Alvarez 
 * [bwa](http://bio-bwa.sourceforge.net/)
 * [picard](https://broadinstitute.github.io/picard/)
 * gatk3
-* [mapDamage2] (https://ginolhac.github.io/mapDamage)
+* [mapDamage2](https://ginolhac.github.io/mapDamage)
 * [freebayes](https://github.com/ekg/freebayes)
 
 

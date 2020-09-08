@@ -15,7 +15,7 @@
 * [bwa](http://bio-bwa.sourceforge.net/)
 * [picard](https://broadinstitute.github.io/picard/)
 * gatk3 
-* [mapDamage2] (https://ginolhac.github.io/mapDamage)
+* [mapDamage2](https://ginolhac.github.io/mapDamage)
 * mafft 
 * [amas](https://github.com/marekborowiec/AMAS)
 
