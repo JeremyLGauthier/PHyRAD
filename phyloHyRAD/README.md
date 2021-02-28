@@ -68,7 +68,7 @@ Two final files are generated:
 * *concatenated.out*: the global alignment in fasta format
 * *partitions.txt*: the partition file
 
-These files can directly used in all phylogeny tools.
+These files can directly be used in all phylogeny tools.
 
 
 
